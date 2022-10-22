@@ -18,7 +18,7 @@ namespace C_Sharp_Fund_UnderstandingClasses
             //Console.WriteLine("{0:C}",myCar.MarketValue);
 
             Console.WriteLine("{0:C}", myCar.DetermineMarketValue());
-
+            
 
             Console.ReadLine();
         }
