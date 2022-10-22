@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Fund_UnderstandingC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Fund_More_About_Classes", "..\C_Sharp_Fund_More_About_Classes\C_Sharp_Fund_More_About_Classes\C_Sharp_Fund_More_About_Classes.csproj", "{00FA498E-CBEE-4149-9CA6-5522051C1E25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleClasses", "SampleClasses\SampleClasses.csproj", "{F43DB5F7-3B43-4986-A3EF-AB8384C2C96A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{00FA498E-CBEE-4149-9CA6-5522051C1E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00FA498E-CBEE-4149-9CA6-5522051C1E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00FA498E-CBEE-4149-9CA6-5522051C1E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43DB5F7-3B43-4986-A3EF-AB8384C2C96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43DB5F7-3B43-4986-A3EF-AB8384C2C96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43DB5F7-3B43-4986-A3EF-AB8384C2C96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43DB5F7-3B43-4986-A3EF-AB8384C2C96A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
