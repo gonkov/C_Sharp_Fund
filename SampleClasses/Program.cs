@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C_Sharp_Fund_More_About_Classes
+namespace SampleClasses
 {
     class Program
     {
@@ -13,6 +13,7 @@ namespace C_Sharp_Fund_More_About_Classes
 
             Car.MyStaticMethod();
             Car myCar = new Car();
+            Console.WriteLine(myCar.Make);
             
             /*myCar.Make = "Toyota";
             myCar.Model = "HighLander";
